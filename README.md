@@ -1,5 +1,7 @@
 # Homework #2
 
+editing text here for homework 2 ok
+
 ## Instructions
 ---
 1. Feynman Writing Prompts - Write out explanations of the following concepts like you are explaining it to a 12 year old.  Doing this will help you quickly discover any holes in your understanding.  Ask your questions on Slack.
