@@ -1,6 +1,6 @@
 # Homework #2
 
-editing text here for homework 2 ok
+editing text here for homework 2 
 
 ## Instructions
 ---
